@@ -12,3 +12,13 @@ Get Started : https://studio.azureml.net/
 
 Get Started: https://www.customvision.ai
 
+## Open source projects 
+
+MICROSOFT: https://opensource.microsoft.com/
+ 
+Mozilla:https://codetribute.mozilla.org/ 
+
+IBM:https://ibmcode-staging.us-east.containers.mybluemix.net/open/projects/
+
+
+
