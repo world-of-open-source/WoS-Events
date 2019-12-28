@@ -1,6 +1,6 @@
 # Microsoft Student Partner Virtual Call
 
-## GitHub Tutorial
+## GitHub Tutorial by Farhan
 
 https://github.com/
 
