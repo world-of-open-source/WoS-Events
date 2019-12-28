@@ -4,6 +4,6 @@
 
 https://github.com/
 
-## Name of Participant
+## Name of King
 
-Syed Farhan Ahmad
+Vedant Bahel
