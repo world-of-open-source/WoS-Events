@@ -4,6 +4,6 @@
 
 https://github.com/
 
-## Name of Participant
+## Name of King
 
-Your name here
+Vedant Bahel
